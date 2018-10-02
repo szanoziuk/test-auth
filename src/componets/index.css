@@ -2,4 +2,12 @@
     border: 1px solid lightslategray;
     border-radius: 3px;
     padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.wrapper h2 {
+    color: darkgrey;
+    font-weight: 400;
+    padding-bottom: 12px;
+    text-align: center;
 }
