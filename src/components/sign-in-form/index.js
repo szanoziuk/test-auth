@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import './index.css';
 import { Form, FormGroup, Input, Button, FormFeedback, Label } from 'reactstrap';
-import fire from '../firebase';
-import { findName } from '../helpers';
+import fire from '../../firebase';
+import { findName } from '../../helpers';
  
 class SignInForm extends Component {
 
